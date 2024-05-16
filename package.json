@@ -29,7 +29,6 @@
   ],
   "main": "./dist/react-audio-visualize.umd.js",
   "module": "./dist/react-audio-visualize.es.js",
-  
   "exports": {
     ".": {
       "import": "./dist/react-audio-visualize.es.js",
